@@ -1,0 +1,12 @@
+streamlit 
+langchain 
+langchain-community 
+langchain-experimental 
+PyPDF2 
+pdfplumber 
+huggingface_hub
+torch>=2.2.1 --extra-index-url https://download.pytorch.org/whl/cu121
+sentence-transformers>=2.6.0
+setuptools>=70.0.0
+langchain-ollama>=0.1.0
+faiss-cpu
