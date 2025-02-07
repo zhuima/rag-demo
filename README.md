@@ -2,7 +2,6 @@
 
 基于DeepSeek R1模型构建的智能文档问答系统，支持PDF文档解析与语义问答
 
-![Demo Screenshot](https://via.placeholder.com/800x500.png/0077ff/ffffff?text=RAG+Chat+Demo)
 
 ## 主要特性 ✨
 - 📄 PDF文档智能解析与语义分块
@@ -31,8 +30,8 @@
 ### 安装步骤
 1. 克隆仓库：
    ```bash
-   git clone https://github.com/yourusername/deepseek-rag-chat.git
-   cd deepseek-rag-chat
+   git clone https://github.com/zhuima/rag-demo.git
+   cd rag-demo
    ```
 
 2. 安装依赖：
@@ -89,7 +88,7 @@ A: 确保：
 - [ ] 混合检索策略
 
 ## 许可证 📜
-MIT License © 2024 [Your Name]
+MIT License © 2024 [zhuima]
 
 
 
