@@ -160,10 +160,10 @@ with st.sidebar:
     st.markdown("---")
     with st.expander("ℹ️ 使用说明"):
         st.markdown("""
-        - 📚 本应用使用 DeepSeek R1 7b 模型（由Ollama提供服务）实现RAG（检索增强生成）管道
+        - 📚 本应用使用 DeepSeek R1 32b 模型（由Ollama提供服务）实现RAG（检索增强生成）管道
         - ⚙️ 使用前请确保：
             1. 已安装 Ollama
-            2. 已拉取 deepseek-r1:7b 模型 (`ollama pull deepseek-r1:7b`)
+            2. 已拉取 deepseek-r1:32b 模型 (`ollama pull deepseek-r1:32b`)
             3. Ollama 服务正在后台运行
         - 🔧 技术细节：
             - 使用语义分块进行更好的上下文检索
